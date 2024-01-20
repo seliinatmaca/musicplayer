@@ -1,0 +1,16 @@
+{
+	"folders": [
+		{
+			"name": "assets",
+			"path": "../assets"
+		},
+		{
+			"name": "udemigplayer",
+			"path": "."
+		}
+	],
+	"settings": {
+		"liveServer.settings.port": 5501,
+		"liveServer.settings.multiRootWorkspaceName": "udemigplayer"
+	}
+}
